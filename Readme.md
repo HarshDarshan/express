@@ -38,6 +38,8 @@ app.listen(3000)
 
 ## Installation
 
+no no don't install express is telling a laaaaayyyyy!
+
 This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/).
 
